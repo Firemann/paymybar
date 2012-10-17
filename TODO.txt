@@ -1,0 +1,6 @@
+TODO
+======
+
+- Aller voir SI/Jean-louis pour gestion caméra (protège le bar ?)
+- Voir avec SI si on peut avoir une adresse ip (venant du PI) sur le réseau.
+- Contacter (tel/mail) société Vandoeuvre pour le tiroir-caisse
